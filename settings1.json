@@ -1,0 +1,43 @@
+{
+    "editor.fontFamily": "Monospace",
+    "editor.fontSize": 14,
+    "workbench.editor.wrapTabs": true,
+    // "editor.stickyScroll.enabled": true,
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.2,
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "editor.autoClosingBrackets": "always",
+    "editor.formatOnType": true,
+    "emmet.triggerExpansionOnTab": true,
+    "files.eol": "\n",
+    "extensions.autoUpdate": false,
+    "files.autoSave": "afterDelay",
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "[php]": {
+      "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorTheme": "Enhanced Material Colorful",
+    "editor.accessibilityPageSize": 16,
+    "editor.fontLigatures": false,
+    "workbench.colorCustomizations": {
+      "editor.background": "#1c1c1d",
+      "tab.activeBackground": "#0786c1",
+      "tab.inactiveBackground": "#000000",
+      "list.activeSelectionBackground": "#0786c1",
+      "list.inactiveSelectionBackground": "#0786c1",
+    },
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": -1,
+    "tabnine.experimentalAutoImports": true,
+    "json.schemas": [
+   
+   
+    ]
+  }
