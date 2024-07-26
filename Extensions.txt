@@ -1,0 +1,7 @@
+code runner
+auto close tag
+GIT LENS
+tabnine ai
+material icon theme
+live server
+excel viewer
